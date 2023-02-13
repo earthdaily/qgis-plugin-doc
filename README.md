@@ -91,3 +91,11 @@ Example:
 
 `## My title` will become `<h2>My title</h2>` in HTML and will have the h2 styling defined in Unique App.
 
+## How do I sort my documents ?
+
+Inside the folder, files are sorted alphabetically. If you want to sort files in a particular order you need to respect this nomenclature :
+
+- 01.My main document.md
+- 02.My second document.md
+
+The `0` before the unit is **very important** because as indicated above, files are sorted alphabetically therefor the following suite numbers `1,9,10,21,22` would be sorted in this order `1,10,21,22,9`. So in order to fix it you should previous a `0` for the unit.
